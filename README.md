@@ -5,7 +5,7 @@ This project can be used as a boilerplate to base future projects off of.
 Tell us something about this project.
 
 # Version
-2023.18800 LTS
+2023.12000 LTS
 
 # Notes
 Never have anything config, log or similiar related inside the repository.
